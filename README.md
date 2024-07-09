@@ -1,0 +1,1 @@
+# architecture-kata-euro2024
