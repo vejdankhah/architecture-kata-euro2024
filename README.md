@@ -17,7 +17,7 @@ It should happen in 2 phases.
 ##### Phase 1: A lottery system for matches to ensure fairness
 * The users must be able to request tickets during specific application windows.
 * The users must chose fixture, and ticket category, and number of tickets.
-* The ysers can chose to accept ticket in different category than the one requested.
+* The users can chose to accept ticket in different category than the one requested.
 * There are limitations of number of tickets that each user can request (each person 5 tickets).
 * After closing the phase 1 ticket requests, the systme must perform a lottery draw, to assign the 60% of available tickets to the users.
 * The users who win the lottery will be informed by system.
